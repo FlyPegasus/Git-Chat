@@ -40,8 +40,8 @@ The initial version (MVP) of Git-Chat will focus on the core functionality of a 
 ## Roadmap
 | Phase | Milestone | Status |
 |-------|-----------|--------|
-| 1 | Planning ||
-| 2 | Design ||
-| 3 | Implementation ||
-| 4 | Testing ||
-| 5 | Deployment ||
+| 1 | Planning | ✅ Complete |
+| 2 | Design | ⏳ Not Started |
+| 3 | Implementation | ⏳ Not Started |
+| 4 | Testing | ⏳ Not Started |
+| 5 | Deployment | ⏳ Not Started |
